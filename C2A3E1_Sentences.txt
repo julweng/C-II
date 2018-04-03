@@ -1,0 +1,19 @@
+Julia Tzu-Ya Weng, U07487022
+julweng@gmail.com
+C/C++ Programming II : Dynamic Memory and File I/O Concepts
+Section: 121616
+Instructor: Raymond Mitchell
+Apr 24, 2017
+
+C2A3E1_Sentences.txt 
+
+1. values is a pointer to a float
+2. values is an array
+3. values is a pointer to a float
+4. values is a pointer to a float
+5. values is a pointer to a float
+6. values is a pointer to a float
+7. values is an array
+8. values is a pointer to a float
+9. values is a pointer to a float
+10. values is a pointer to a float
